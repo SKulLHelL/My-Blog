@@ -1,0 +1,20 @@
+{
+  "index.qmd": {
+    "index.html": "992f0d39"
+  },
+  "about.qmd": {
+    "about.html": "41a01b13"
+  },
+  "posts/post-with-code/index.qmd": {
+    "index.html": "33ecff24"
+  },
+  "posts/welcome/index.qmd": {
+    "index.html": "987d115e"
+  },
+  "posts/st peterburg/index.qmd": {
+    "index.html": "64633813"
+  },
+  "posts/Dagestan/index.qmd": {
+    "index.html": "465e279f"
+  }
+}

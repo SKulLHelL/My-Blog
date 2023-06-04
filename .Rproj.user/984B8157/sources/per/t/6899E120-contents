@@ -1,0 +1,14 @@
+{
+  "hash": "a6d74177178de82dce4202b04e70190e",
+  "result": {
+    "markdown": "---\ntitle: \"Сообщение с кодом\"\nauthor: \"Голубенко Владимир\"\ndate: \"2023-05-27\"\ncategories: [news, code, analysis]\nimage: \"python.png\"\n---\n\n\nЭтот пост с исполняемым кодом.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
